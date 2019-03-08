@@ -1,4 +1,5 @@
 # Learn Vuex by Building a Notes App
+vuex实现的笔记应用
 
 This code is for the tutorial on building a Notes App using VueJs and Vuex
 
